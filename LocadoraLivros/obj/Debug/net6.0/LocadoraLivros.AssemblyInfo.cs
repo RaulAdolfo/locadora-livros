@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocadoraLivros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a85e7c9968223bdf212e396c68c7a48c1e94ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocadoraLivros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocadoraLivros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
